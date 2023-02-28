@@ -38,7 +38,7 @@ $(document).ready(function(){
 function loadDoc() {
     const xhttp = new XMLHttpRequest();
     xhttp.onload = function() {
-      document.getElementById("demo").innerHTML = 'Tennis3.png';
+      document.getElementById("demo").innerHTML = '<img src = "tennis2.png">';
       this.responseText;
     }
     xhttp.open("GET", "ajax_info.txt");
