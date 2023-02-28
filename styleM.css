@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+
+#redes{
+    background-color: black;
+    color: white;
+    text-align: end;
+}
+
+#FotoPortada{
+    display: block;
+    margin: auto;
+}
+
+#FotoUno{
+    position: relative;
+    left: 360px;
+    width: 200px;
+}
+
+#Nosotros{
+    position: relative;
+    left: 360px;
+}
+#Nosotros2{
+    position: relative;
+    left: 360px;
+}
+#Nosotros3{
+    position: relative;
+    left: 360px;
+}
+#Nosotros4{
+    position: relative;
+    left: 360px;
+}
+
+#BotonLogo{
+    position: relative;
+    left: 1000px;
+    top: 100px;
+}
+
+#BotonAJAX{
+    position: relative;
+    left: 1100px;
+    top: 100px;
+}
+
+#FotoTres{
+    display: block;
+    margin: auto;
+    width: 1000px;
+}
